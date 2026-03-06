@@ -11,5 +11,10 @@ cd lag
 python lag.py
 
 ```
+Maybe you should use:
+```python
+python3 lag.py
+```
+to activate python.
 
 (Please use with care.)
