@@ -5,16 +5,16 @@
 ### lag...
 ## LAG...!!!
 ```python
-git clone https://github.com/classify-text/lag.git
-cd classify
-python classify.py
+git clone https://github.com/classified-text/lag.git
+cd classified
+python classified.py
 
 ```
 Maybe you should use:
 ```python
-git clone https://github.com/classify-text/lag.git
-cd classify
-python3 lag.py
+git clone https://github.com/classified-text/lag.git
+cd classified
+python3 classified.py
 
 ```
 to activate python.
